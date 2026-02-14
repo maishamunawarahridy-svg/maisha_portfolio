@@ -1,2 +1,1 @@
-# maisha_portfolio
-One-page MBA portfolio website built with Quarto and hosted on GitHub Pages.
+Maisha's one-page MBA portfolio built with Quarto.
